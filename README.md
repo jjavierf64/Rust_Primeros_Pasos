@@ -11,4 +11,4 @@ fn main(){
 ```
 
 
-
+Existen Macros y Funciones. Los macros se llaman con un `!`al final.
