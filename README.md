@@ -4,10 +4,13 @@
 ## Lo más Básico
 
 Las funciones de Rust se definen como 
-´´´rust
+´´´ rust
+
 fn main(){
 
 ...
+
 }
+
 ´´´
 
