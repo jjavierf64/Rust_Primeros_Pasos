@@ -58,4 +58,4 @@ let y = 10;
 println!("x = {} and y = {}", x, y);
 ```
 
-[Programming a Guessing Game - The Rust Programming Language](https://doc.rust-lang.org/stable/book/ch02-00-guessing-game-tutorial.html#receiving-user-input)
+[Programming a Guessing Game - The Rust Programming Language](https://doc.rust-lang.org/stable/book/ch02-00-guessing-game-tutorial.html#generating-a-secret-number)
