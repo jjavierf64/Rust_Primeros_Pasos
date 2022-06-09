@@ -10,7 +10,9 @@
 //mod functions;
 //mod pointe;
 //mod structs;
-mod enums;
+//mod enums;
+// mod cli;
+mod ownership;
 
 fn main() {
     //print::run(); //Llama al "archivo::funcion()"
@@ -25,7 +27,10 @@ fn main() {
     //functions::run(); 
     //pointe::run(); 
     //structs::run(); 
-    enums::run(); 
+    //enums::run(); 
+    // cli::run(); 
+    ownership::run(); 
+
 
 }
     
